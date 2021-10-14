@@ -1,1 +1,0 @@
-Example of consuming a API in javascript.
