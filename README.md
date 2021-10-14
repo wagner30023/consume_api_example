@@ -1,1 +1,2 @@
-# consume_api_example
+
+## example of consuming an api in javascript
